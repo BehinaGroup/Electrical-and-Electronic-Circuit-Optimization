@@ -1,7 +1,7 @@
 # Electrical and electronic circuit optimization
 This project is dedicated to the optimization of (any) electrical and electronic circuits and components using evolutionary and heuristic algorithms incorporated with HSPICE.
 
-We provide Optimer which is a user graphical interface for circuit design and optimization. Optimer has following features:
+We provide Optimer which is a user graphical interface for circuit design and optimization. Optimer benefits from following features:
    - Does not have new syntax;
    - Does not need any extra coding, just implement your circuit code for HSPICE simulation;
    - Has easy to use and managed settings for optimization algorithm, circuit parameters, and objectives (circuit specifications);
