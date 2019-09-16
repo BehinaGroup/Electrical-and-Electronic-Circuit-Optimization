@@ -1,6 +1,21 @@
 # Electrical and electronic circuit optimization
-This project is dedicated to the optimization of electrical circuits and components using evolutionary and heuristic algorithms incorporated with SPICE.
-We provide Optimer which is a user graphical interface for circuit design and optimization.
+This project is dedicated to the optimization of (any) electrical and electronic circuits and components using evolutionary and heuristic algorithms incorporated with HSPICE.
+
+We provide Optimer which is a user graphical interface for circuit design and optimization. Optimer has following features:
+   - Does not have new syntax;
+   - Does not need any extra coding, just implement your circuit code for HSPICE simulation;
+   - Has easy to use and managed settings for optimization algorithm, circuit parameters, and objectives (circuit specifications);
+   - Can save state for later usage;
+   - Gives a whole defined values in report file very easily;
+   - Utilizes the most powerful multiobjective optimization algorithm (NSGA 2);
+   - Utilized the most accurate circuit simulator (HSPICE);
+   - Accepts unlimited number of circuit parameters (e.g. R, C, L, Transistor W and L, Value of voltage and current sources, etc.);
+   - Accepts unlimited number of circuit objectives (circuit specifications, e.g. Gain, Noise, Power dissipation, Matching, Balance, Stability, Linearity, THD, Transient Response, etc.);
+   - Can manage parallel optimization projects;
+   - Has netlist editor;
+   - And so on ...
+
+
 To use Optimer, first make an account with https://www.circuitoptimization.com and then download the setup file and run it to install Optimer on your system. Optimer works in Windows operating system. After installation, using site credentials, login to the application and follow the steps below to create new optimization project:
 
 
