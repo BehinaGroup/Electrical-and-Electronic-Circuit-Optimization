@@ -6,7 +6,7 @@ To use Optimer, first make an account with https://www.circuitoptimization.com a
 
 1- Optimer: File -> New -> Project
 
-   Create of choose a folder to store optimization project. After that, a new window will be appeared.
+   Create or choose a folder to store optimization project. After that, a new window will be appeared.
    
    
 2- Netlistor:
