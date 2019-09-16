@@ -20,7 +20,7 @@ To use Optimer:
    2. Download the setup file and run it to install Optimer on your system. Optimer works in Windows operating system.
    3. After installation, using site credentials, login to the application and follow the steps below to create new optimization project:
    4. Optimer: File -> New -> Project :
-      - Create or choose a folder to store optimization projectک
+      - Create or choose a folder to store optimization project;
       - After that, a new window will be appeared.
    5. Netlistor:
       - Choose and set NSGA2 options and parameters;
