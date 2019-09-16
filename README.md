@@ -32,4 +32,4 @@ To use Optimer, first make an account with https://www.circuitoptimization.com a
       - Run optimization.
    
    3. Investigate the optimization results :
-      - Look at report file and sort data according to your need to find best results which suit your circuit objectives.
+      - Look at csv report file and sort data according to your need to find best results which suit your circuit objectives.
