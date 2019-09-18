@@ -17,7 +17,7 @@ We provide Optimer which is a user graphical interface for circuit design and op
 
 # How to use Optimer
 To use Optimer:
-   1. First make an account with https://www.circuitoptimization.com
+   1. First make an account https://www.circuitoptimization.com/wp-login.php?action=register.
    2. Download the setup file and run it to install Optimer on your system. Optimer works in Windows operating system.
    3. After installation, using site credentials, login to the application and follow the steps below to create new optimization project:
    4. Optimer: File -> New -> Project :
