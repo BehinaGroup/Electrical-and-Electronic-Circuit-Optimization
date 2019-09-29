@@ -1,5 +1,5 @@
 # Electrical and electronic circuit multiobjective optimization
-This project is dedicated to the optimization of (any) electrical and electronic circuits and components using evolutionary and heuristic algorithms incorporated with HSPICE.
+This project is dedicated to the optimization of (any) electrical and electronic circuits and components using evolutionary and heuristic algorithms incorporated with SPICE base simulators (such as HSPICE, ngSPICE, etc).
 
 We provide Optimer which is a user graphical interface for circuit design and optimization. Optimer benefits from following features:
    - Does not have new syntax;
@@ -8,7 +8,7 @@ We provide Optimer which is a user graphical interface for circuit design and op
    - Can save state for later usage;
    - Gives a whole defined values in report file very easily;
    - Utilizes the most powerful multiobjective optimization algorithm (NSGA 2);
-   - Utilized the most accurate circuit simulator (HSPICE);
+   - Utilized the most accurate circuit simulator (HSPICE, ngSPICE, etc);
    - Accepts unlimited number of circuit parameters (e.g. R, C, L, Transistor W and L, Value of voltage and current sources, etc.);
    - Accepts unlimited number of circuit objectives (circuit specifications, e.g. Gain, Noise, Power dissipation, Matching, Balance, Stability, Linearity, THD, Transient Response, etc.);
    - Can manage parallel optimization projects;
@@ -25,7 +25,7 @@ To use Optimer:
       - After that, a new window will be appeared.
    5. Netlistor:
       - Choose and set NSGA2 options and parameters;
-      - Choose HSPICE simulator address;
+      - Choose HSPICE (or other simulator) simulator address;
       - Create or choose main circuit netlist file;
       - Choose or create report file;
       - Set circuit parameters;
